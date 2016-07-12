@@ -1,17 +1,7 @@
 
 ### Install
 
-**Binaries**
 
-See [the latest release](https://github.com/jpillora/cloud-torrent/releases/latest) or download it now with `curl i.jpillora.com/cloud-torrent | bash`
-
-**Source**
-
-*[Go](https://golang.org/dl/) is required to install from source*
-
-``` sh
-$ go get -v github.com/jpillora/cloud-torrent
-```
 
 **Heroku**
 
