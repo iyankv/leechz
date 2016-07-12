@@ -57,7 +57,7 @@ Credits to `anacrolix` for https://github.com/anacrolix/torrent
 
 #### MIT License
 
-Copyright © 2015 Jaime Pillora &lt;dev@jpillora.com&gt;
+Copyright © 2015 Jaime Pillora 
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
