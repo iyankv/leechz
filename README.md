@@ -16,33 +16,6 @@ Click this button to...
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-### Usage
-
-```
-$ cloud-torrent --help
-
-  Usage: cloud-torrent [options]
-
-  Options:
-  --title, -t        Title of this instance (default Cloud Torrent, env TITLE)
-  --port, -p         Listening port (default 3000, env PORT)
-  --host, -h         Listening interface (default all)
-  --auth, -a         Optional basic auth in form 'user:password' (env AUTH)
-  --config-path, -c  Configuration file path (default cloud-torrent.json)
-  --key-path, -k     TLS Key file path
-  --cert-path, -r    TLS Certicate file path
-  --log, -l          Enable request logging
-  --open, -o         Open now with your default browser
-  --help
-  --version, -v
-
-  Version:
-    0.8.8
-
-  Read more:
-    https://github.com/jpillora/cloud-torrent
-
-```
 
 ### Notes
 
